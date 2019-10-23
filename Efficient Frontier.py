@@ -21,7 +21,7 @@ correlation = logReturns.corr()
 # setting the number of portfolio combinations using different weights of the chosen stocks
 
 stocks_num = len(tickers)
-num_portfolios = 50000
+num_portfolios = 20000
 
 # empty lists for the data which is to be generated in the next step
 
